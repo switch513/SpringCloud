@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiscoverServer/DiscoverServer.iml" filepath="$PROJECT_DIR$/DiscoverServer/DiscoverServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FeignService/FeignService.iml" filepath="$PROJECT_DIR$/FeignService/FeignService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservice.iml" filepath="$PROJECT_DIR$/Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RibbonService/RibbonService.iml" filepath="$PROJECT_DIR$/RibbonService/RibbonService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service-1/Service-1.iml" filepath="$PROJECT_DIR$/Service-1/Service-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service-2/Service-2.iml" filepath="$PROJECT_DIR$/Service-2/Service-2.iml" />
+    </modules>
+  </component>
+</project>
